@@ -11,4 +11,4 @@ This notebook compares GPT-2 and GPT-Neo-125M under the proposed divergence-base
 Main file
 ---------
 
-    GPT2_vs_GPTNeo125M_DivergenceSafety_Comparison_Colab.ipynb
+    GPT2_vs_GPTNeo125M_DivergenceSafety_Comparison.ipynb
